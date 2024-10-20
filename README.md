@@ -4,8 +4,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Welcome to the **Project Name**! This is an amazing project that solves X problem using Y technology.
-
 ## 🔨 ToDo List
 
 ### 🔧 Setup
